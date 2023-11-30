@@ -4,7 +4,7 @@
 **My name is Vitaliy Prus. **  
   
 
-- 🔭I am currently working on http://recipees.net  
+- 🔭I am currently working on [http://recipees.net ](https://github.com/prusvo/recipees.net) 
   
 
 - 🌱 I’m currently learning React.js  
